@@ -9,7 +9,7 @@
 
 # ♜ Python Data Classes 
 **By Alexander Hultnér** at GothPy 17th of May 2018.  
-A talk about *data classes* and how you can use them today.
+A [talk](http://slides.com/hultner/python-dataclasses-gothpy-alexander-hultner/fullscreen) about *data classes* and how you can use them today.
 The code we experimented with in the demo is available in [demo.py](./demo.py).
 
 ## ♜ Dataclasses FAQ
